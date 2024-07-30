@@ -59,6 +59,13 @@ o
 npm test
 
 ```
+### 📹 Video demo de la web
+
+
+
+https://github.com/user-attachments/assets/acf04eea-93a8-48ba-b2ec-89b844c0011c
+
+
 
 ### 🎵 Imagenes de la web
 
